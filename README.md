@@ -1,5 +1,6 @@
-# TP Final - Sistema para Hotel
-El siguiente proyecto fue realizado en la materia "Diseño de Sistemas" de la Carrera de Ingenieria en Sistemas de Informacion de la UTN-FRSF. Trabaje junto a 3 compañeras en su desarrollo durante todo el año 2021.
+# TPN1 Sistema de Gestion de la Configuracion
+
+Se utilizo el siguiente proyecto que fue realizado en la materia "Diseño de Sistemas" de la Carrera de Ingenieria en Sistemas de Informacion de la UTN-FRSF. Trabajamos en su desarrollo durante todo el año 2021.
 
 ## Indice
 1. <a href="#acerca-de-la-implementacion">Acerca de la Implementacion</a>
